@@ -8,6 +8,8 @@ public class student{
 		System.out.println("Age of the student");
 	}
 	public static void main(String[]args) {
+		
+		System.out.println("Rekha");
 		student xyz=new student();
 		xyz.display1();
 		xyz.roll=2;
